@@ -24,7 +24,7 @@ public class GUI_Test2 extends JFrame
      
     private void createContents()
     {
-        JLabel nameMessage = new JLabel("Hello. Testing, one, two, three.");
+        JLabel nameMessage = new JLabel("EDITED");
         add(nameMessage);
          
     } // end createContents
